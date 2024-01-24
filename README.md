@@ -1,1 +1,1 @@
-The Quiz Management System is a desktop application developed by a team of students at Helwan University. This application serves as an efficient tool for creating, organizing, and administering quizzes.
+The Quiz Management System is a console application developed by a team of students at Helwan University. This application serves as an efficient tool for creating, organizing, and administering quizzes.
